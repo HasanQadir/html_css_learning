@@ -1,0 +1,28 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tweeter-author {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.tweeter-info {
+  color: rgba(0, 0, 0, 0.645);
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.tweet {
+  font-size: 20px;
+  width: 700px;
+  margin-bottom: 20px;
+
+}
+
+.tweet-tag {
+  color: rgb(68, 150, 213);
+}
