@@ -1,0 +1,39 @@
+input {
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.25);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 15px;
+}
+
+.fname-input {
+    width: 127px;
+}
+
+.lname-input {
+    width: 127px;
+}
+
+.email-input {
+    width: 300px;
+    display: block;
+}
+
+.signup-btn {
+    width: 342px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0a66c2;
+    color: white;
+    border-color: #0a66c2;
+    border-style: solid;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align: middle;
+
+}
